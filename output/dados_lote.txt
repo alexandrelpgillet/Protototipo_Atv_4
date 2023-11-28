@@ -1,0 +1,6 @@
+ Classificacao do produto: Suino
+ UF do produtor: GO
+ Municipio do lote: GO 
+ Nome do produtor: JBS 
+ CNPJ do produtor: 3232
+ Validade do lote: 10 / 10 / 2024
